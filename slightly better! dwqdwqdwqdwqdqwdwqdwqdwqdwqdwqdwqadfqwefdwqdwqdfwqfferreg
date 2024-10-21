@@ -1,0 +1,12 @@
+[1mdiff --git a/mood3.txt b/mood3.txt[m
+[1mindex eacd410..3cd2d40 100644[m
+[1m--- a/mood3.txt[m
+[1m+++ b/mood3.txt[m
+[36m@@ -1 +1,5 @@[m
+[31m-My mood is now at the best!s[m
+\ No newline at end of file[m
+[32m+[m[32mMy mood is now at the best![m
+[32m+[m[32mdwed[m
+[32m+[m
+[32m+[m[32meswd[m
+[32m+[m[32med[m
